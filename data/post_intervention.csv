@@ -1,0 +1,21 @@
+athlete_id,name,week,jump_height_cm,ball_control_touches,serve_accuracy_pct,reception_efficiency_pct,attack_rate_pct,sessions_per_week,rest_days,ipg
+ATH001,Italo Ferreira,5,62,47,72,74,68,4,2,0.705
+ATH001,Italo Ferreira,6,63,48,73,76,70,4,2,0.720
+ATH001,Italo Ferreira,7,64,50,75,78,72,5,1,0.739
+ATH001,Italo Ferreira,8,65,51,76,79,73,5,1,0.750
+ATH002,Elana Ferreira,5,48,42,76,72,62,3,3,0.644
+ATH002,Elana Ferreira,6,49,43,77,74,64,3,3,0.659
+ATH002,Elana Ferreira,7,50,44,79,75,65,3,2,0.672
+ATH002,Elana Ferreira,8,50,45,80,76,66,3,2,0.680
+ATH003,Ingrid Pontes,5,54,58,81,79,73,3,3,0.743
+ATH003,Ingrid Pontes,6,55,60,82,80,75,3,3,0.758
+ATH003,Ingrid Pontes,7,56,62,84,82,77,3,3,0.778
+ATH003,Ingrid Pontes,8,57,63,85,83,78,3,3,0.789
+ATH004,Felipe Silva,5,64,51,69,76,70,4,2,0.723
+ATH004,Felipe Silva,6,66,52,71,78,72,4,2,0.742
+ATH004,Felipe Silva,7,67,54,73,80,74,4,2,0.761
+ATH004,Felipe Silva,8,68,55,74,81,75,4,2,0.773
+ATH005,Filippo Alvim Cupolillo Bruno,5,59,44,74,73,66,3,3,0.687
+ATH005,Filippo Alvim Cupolillo Bruno,6,60,46,76,75,68,3,3,0.707
+ATH005,Filippo Alvim Cupolillo Bruno,7,61,47,78,76,70,4,2,0.721
+ATH005,Filippo Alvim Cupolillo Bruno,8,62,48,79,77,71,4,2,0.732

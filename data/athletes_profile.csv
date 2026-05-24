@@ -1,0 +1,6 @@
+athlete_id,name,age,experience_years,position,level,weight_kg,height_cm,bmi,sessions_per_week_pre,rest_days_pre
+ATH001,Italo Ferreira,24,3,Attack,Intermediate,75.2,182,22.7,3,2
+ATH002,Elana Ferreira,22,2,Setting,Beginner,61.8,170,21.4,2,3
+ATH003,Ingrid Pontes,26,5,Defense,Advanced,58.4,167,20.9,4,2
+ATH004,Felipe Silva,25,4,Attack,Intermediate,79.6,184,23.5,3,2
+ATH005,Filippo Alvim Cupolillo Bruno,23,2,Versatile,Beginner,70.1,178,22.1,2,3

@@ -1,0 +1,41 @@
+athlete_id,name,week,phase,sessions_per_week,rest_days,avg_session_duration_min,focus_area,coach_notes
+ATH001,Italo Ferreira,1,pre,3,2,60,ball_control,Baseline assessment week
+ATH001,Italo Ferreira,2,pre,3,2,60,ball_control,Slight improvement in BC
+ATH001,Italo Ferreira,3,pre,4,2,65,jump_training,Increased frequency per model recommendation
+ATH001,Italo Ferreira,4,pre,4,1,65,jump_training,Extra training day added
+ATH001,Italo Ferreira,5,post,4,2,70,ball_control + jump,Model recommended BC + jump combined
+ATH001,Italo Ferreira,6,post,4,2,70,ball_control + jump,Good adaptation
+ATH001,Italo Ferreira,7,post,5,1,70,full_technical,Peak training load
+ATH001,Italo Ferreira,8,post,5,1,75,full_technical,Final assessment week
+ATH002,Elana Ferreira,1,pre,2,3,50,serve_accuracy,Baseline assessment week
+ATH002,Elana Ferreira,2,pre,2,3,50,serve_accuracy,Posture correction identified via video
+ATH002,Elana Ferreira,3,pre,3,3,55,serve + reception,Model recommended extra session
+ATH002,Elana Ferreira,4,pre,3,2,55,serve + reception,Reduced rest slightly
+ATH002,Elana Ferreira,5,post,3,3,60,serve_accuracy,Focused on posture correction
+ATH002,Elana Ferreira,6,post,3,3,60,serve_accuracy,Good progress
+ATH002,Elana Ferreira,7,post,3,2,60,full_technical,Broadened focus
+ATH002,Elana Ferreira,8,post,3,2,65,full_technical,Final assessment week
+ATH003,Ingrid Pontes,1,pre,4,2,70,all_around,Baseline — high load detected
+ATH003,Ingrid Pontes,2,pre,4,2,70,all_around,Model flagged overtraining risk
+ATH003,Ingrid Pontes,3,pre,4,2,70,all_around,Maintained high load
+ATH003,Ingrid Pontes,4,pre,4,1,70,all_around,Extra rest day removed — not ideal
+ATH003,Ingrid Pontes,5,post,3,3,65,recovery + technique,Model recommended +1 rest day
+ATH003,Ingrid Pontes,6,post,3,3,65,recovery + technique,Immediate improvement noted
+ATH003,Ingrid Pontes,7,post,3,3,65,full_technical,Consistent gains
+ATH003,Ingrid Pontes,8,post,3,3,65,full_technical,Best overall results in group
+ATH004,Felipe Silva,1,pre,3,2,65,attack + jump,Baseline assessment week
+ATH004,Felipe Silva,2,pre,3,2,65,attack + jump,Correlation rest vs attack found
+ATH004,Felipe Silva,3,pre,4,2,65,attack + jump,Increased sessions
+ATH004,Felipe Silva,4,pre,4,1,65,attack + jump,Model recommended more rest
+ATH004,Felipe Silva,5,post,4,2,70,jump_training,Focused on jump height
+ATH004,Felipe Silva,6,post,4,2,70,jump_training,Strong adaptation
+ATH004,Felipe Silva,7,post,4,2,70,attack + jump,Combined focus
+ATH004,Felipe Silva,8,post,4,2,75,attack + jump,Best absolute jump gain
+ATH005,Filippo Alvim Cupolillo Bruno,1,pre,2,3,55,reception + serve,Baseline assessment week
+ATH005,Filippo Alvim Cupolillo Bruno,2,pre,2,3,55,reception + serve,Reception weakness identified
+ATH005,Filippo Alvim Cupolillo Bruno,3,pre,3,3,60,reception,Model focused on RE deficit
+ATH005,Filippo Alvim Cupolillo Bruno,4,pre,3,2,60,reception,Gradual improvement
+ATH005,Filippo Alvim Cupolillo Bruno,5,post,3,3,65,reception + attack,Specific RE drills applied
+ATH005,Filippo Alvim Cupolillo Bruno,6,post,3,3,65,reception + attack,Strong improvement in AT
+ATH005,Filippo Alvim Cupolillo Bruno,7,post,4,2,70,full_technical,Broadened to full training
+ATH005,Filippo Alvim Cupolillo Bruno,8,post,4,2,70,full_technical,Best IPG evolution in group

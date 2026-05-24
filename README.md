@@ -128,7 +128,7 @@ Where:
 | Italo Ferreira | Attack | Intermediate | 0.660 | 0.750 | +13.6% |
 | Elana Ferreira | Setting | Beginner | 0.603 | 0.680 | +12.8% |
 | Ingrid Pontes | Defense | Advanced | 0.713 | 0.789 | +10.7% |
-| Felipe Silva | Attack | Intermediate | 0.685 | 0.773 | +12.9% |
+| Felipe Silva | Attack | Intermediate | 0.685 | 0.772 | +12.7% |
 | Filippo A. C. Bruno | Versatile | Beginner | 0.643 | 0.732 | **+13.8%** |
 
 ---

@@ -196,7 +196,7 @@ All charts are saved to `outputs/figures/`:
 
 ## 🏛️ Academic Context
 
-- **Institution:** Centro Universitário União das Américas Descomplica
+- **Institution:** Centro Universitario Uniao das Americas Descomplica
 - **Program:** Bachelor's in Data Science
 - **Project Type:** University Extension Project V (PEX V)
 - **Partner CNPJ:** 40.298.588/0001-26
